@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zuhairi bin Mohd Rihduan</h1>
 <h3 align="center">Passionate about adapting to change and exploring new possibilities through code.</h3>
 
+- 🌱 I’m currently learning **C++**
+
+- 📫 How to reach me **zuhairi06@graduate.utm.my**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  zuhairi06@graduate.utm.my
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
