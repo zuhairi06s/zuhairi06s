@@ -1,5 +1,6 @@
 ## Hi there 👋 
-I am __Muhammad Zuhairi bin Mohd Ridhuan__
+I am __Muhammad Zuhairi bin Mohd Ridhuan__.
+
 I'm a student at Universiti Teknologi Malaysia taking Bachelor of Computer Science (Computer Networking and Security).
 
 
