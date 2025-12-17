@@ -1,6 +1,10 @@
 ## Hi there 👋 
 I am __Muhammad Zuhairi bin Mohd Ridhuan__.
 
+My birthday : 27 July
+Age : 19
+Hobby: Reading and Gaming
+
 I'm a student at Universiti Teknologi Malaysia taking Bachelor of Computer Science (Computer Networking and Security).
 
 
