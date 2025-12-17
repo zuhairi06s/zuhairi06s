@@ -1,10 +1,12 @@
 ## Hi there 👋 
+I am __ Muhammad Zuhairi bin Mohd Ridhuan and I'm a student at Universiti Teknologi Malaysia
 
+TIS
 <!--
 **zuhairi06s/zuhairi06s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am __ Muhammad Zuhairi bin Mohd Ridhuan and I'm a student at Universiti Teknologi Malayisa
+
 Here are some ideas to get you started:
-TIS
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
