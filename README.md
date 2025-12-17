@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zuhairi bin Mohd Rihduan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Zuhairi bin Mohd Ridhuan</h1>
 <h3 align="center">Passionate about adapting to change and exploring new possibilities through code.</h3>
 
 <h3 align="center">First year Bachelor of Computer Science (Computer Networking and Security)</h3>
